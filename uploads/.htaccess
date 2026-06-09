@@ -1,0 +1,4 @@
+# Prevent execution in uploads
+<Files *.php>
+Deny from all
+</Files>
