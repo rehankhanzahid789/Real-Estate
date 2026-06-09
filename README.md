@@ -1,5 +1,16 @@
 # Billah Dee King — Premium Real Estate Platform
 
+## Screenshots
+
+![Login Page](image/1.jpeg)
+![Login Page](image/2.jpeg)
+![Login Page](image/3.jpeg)
+![Login Page](image/4.jpeg)
+![Login Page](image/5.jpeg)
+![Login Page](image/6.jpeg)
+![Login Page](image/7.png)
+![Login Page](image/8.jpeg)
+
 A complete, production-style real estate website built with **HTML, CSS, vanilla JS, PHP, and MySQL**. Premium white + gold (#bd9941) aesthetic.
 
 ## Features
